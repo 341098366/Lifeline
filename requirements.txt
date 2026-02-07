@@ -1,0 +1,9 @@
+google-generativeai
+google.genai
+elevenlabs
+sounddevice
+numpy
+fastapi
+uvicorn
+python-dotenv
+requests
