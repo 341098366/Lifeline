@@ -1,8 +1,10 @@
 google-generativeai
-google.genai
+google-genai
 elevenlabs
 sounddevice
 numpy
+scipy
+openai-whisper
 fastapi
 uvicorn
 python-dotenv
